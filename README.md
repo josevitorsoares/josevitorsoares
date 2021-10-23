@@ -1,7 +1,7 @@
 ### Olá! Eu sou o José Vitor Soares 👋
 
 - 🌱 Estudando Flutter
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/josevitorsoares">
