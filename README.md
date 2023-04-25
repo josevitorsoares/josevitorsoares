@@ -8,8 +8,8 @@ Após o termino do curso, decidi que gostaria de continuar na área e foi onde i
 
 Atualmente, venho me aprofundando em node.JS e TypeScript com o objetivo de me tornar um Desenvolvedor Back-end. Esses são alguns repositórios onde aplico o que venho estudando: 
 
-- [Comments System API](https://github.com/josevitorsoares/challenge_-_system_comments).
-- [RentalCars](https://github.com/josevitorsoares/rental_cars).
+- [Comments System API](https://github.com/josevitorsoares/challenge_-_system_comments)
+- [RentalCars](https://github.com/josevitorsoares/rental_cars)
 
 ## Minha Atividade
 
