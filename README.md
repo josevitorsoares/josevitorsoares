@@ -1,4 +1,4 @@
-# 🌎 Olá, Eu sou o José Vitor Soares! 👋
+# 🌎 Olá, Eu sou José Vitor Soares! 👋
 
 ## Sobre mim
 
