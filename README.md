@@ -20,15 +20,15 @@ Atualmente, venho me aprofundando em node.JS e TypeScript com o objetivo de me t
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorsoares&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
 
-## 🖥️ Algumas Tecnologias
+<!-- ## 🖥️ Algumas Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="JVS-Node.JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="JVS-TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="JVS-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
-  <img align="center" alt="JVS-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="JVS-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JVS-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="JVS-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
+</div> -->
 
 
 ## 📲 Contatos
