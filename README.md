@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Conheci o universo da programação em 2015, quando ingressei no Curso Técnico de Informática Integrado ao Médio no Instituto Federal Do Piauí (IFPI), campus Angical. Por mais que o curso tenha o título de "Informática", o mesmo teve seu foco no ensino de programação onde conheci as lnguagens C, Java, HTML 5, CSS 3, JavaScript. Além disso, ainda no curso, pude conhecer e aprender sobre conceitos de banco de dados e utilizar esses conhecimentos com o SGBD MySQL.
+Conheci o universo da programação em 2015, quando ingressei no Curso Técnico de Informática Integrado ao Médio no Instituto Federal Do Piauí (IFPI), campus Angical. Por mais que o curso tenha o título de "Informática", o mesmo teve seu foco no ensino de programação onde conheci as linguagens C, Java, HTML 5, CSS 3, JavaScript. Além disso, ainda no curso, pude conhecer e aprender sobre conceitos de banco de dados e utilizar esses conhecimentos com o SGBD MySQL.
 
 Após o termino do curso, decidi que gostaria de continuar na área e foi onde ingressei no curso Tecnólogo em Análise e Desenvolvimento de Sistemas, do IFPI campus Floriano. Já no ensino superior, pude aprimorar ainda mais meus conhecimentos sobre Algoritmos e Estrutura de Dados e tive contato com as linguagens C, de uma forma mais aprofundada, Kotlin, Python, o SGBD PostgreSQL e node.JS. Ao finalizar o curso, desenvolvi meu Trabalho de Conclusão de Curso (TCC) utilizando  Python e, sua biblioteca nativa, Tkinter. Os códigos do mesmo estão em um [repositório](https://github.com/josevitorsoares/shorextractor) aqui no GitHub.
 
