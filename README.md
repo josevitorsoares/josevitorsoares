@@ -6,37 +6,31 @@ Conheci o universo da programação em 2015, quando ingressei no Curso Técnico 
 
 Após o termino do curso, decidi que gostaria de continuar na área e foi onde ingressei no curso Tecnólogo em Análise e Desenvolvimento de Sistemas, do IFPI campus Floriano. Já no ensino superior, pude aprimorar ainda mais meus conhecimentos sobre Algoritmos e Estrutura de Dados e tive contato com as linguagens C, de uma forma mais aprofundada, Kotlin, Python, o SGBD PostgreSQL e node.JS. Ao finalizar o curso, desenvolvi meu Trabalho de Conclusão de Curso (TCC) utilizando  Python e, sua biblioteca nativa, Tkinter. Os códigos do mesmo estão em um [repositório](https://github.com/josevitorsoares/shorextractor) aqui no GitHub.
 
-<!--
-Atualmente, venho me aprofundando em node.JS e TypeScript com o objetivo de me tornar um Desenvolvedor Back-end. Esses são alguns repositórios onde aplico o que venho estudando: 
+---
 
-- [shorextractor](https://github.com/josevitorsoares/shorextractor)
-- [daily_diet-Desafio_02_Ignite](https://github.com/josevitorsoares/daily_diet-Desafio_02_Ignite)
-- [Parking API](https://github.com/josevitorsoares/parking_api)
-- [RentalCars](https://github.com/josevitorsoares/rental_cars)
-- [Comments System API](https://github.com/josevitorsoares/challenge_-_system_comments)
--->
+## 💡 Projetos
+
+Atualmente, venho buscando aprofundar meus conhecimentos em node.JS e TypeScript, além de buscar a aplicação dos princípios SOLID, TDD e Clean Architecture. Esses são alguns repositórios onde aplico o que venho estudando: 
+
+- 📦 [rastro-correios-api](https://github.com/josevitorsoares/rastro-correios-api/)
+- 💵 [twee-dollar](https://github.com/josevitorsoares/twee-dollar/)
+
+---
 
 ## 👷 Experiência de trabalho
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQEakNLPPS_tQw/company-logo_200_200/company-logo_200_200/0/1733146335057/ax4b_servi_os_de_informatica_ltda_logo?e=1744848000&v=beta&t=8lh_mWZcd4QsZnKqkmKDVW8GYdtwQil0Hm3N4uIreQY"/>](https://ax4b.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.postimg.cc/dtSKGRFY/Design-sem-nome.png"/>](https://ax4b.com/)
 
 **Desenvolvedor Full Stack Jr** \
 [**AX4B**](https://ax4b.com/) • Tempo Integral \
+jan. de 2024 - o momento \
 Linguagens & Tecnologias: `JavaScript`, `Node.JS`, `TypeScript`, `Angular`, `MongoDB`, `Prisma`\
 Projetos em destaque: [Validesk](https://ax4b.com/validesk/), [FOCVS Sign](https://ax4b.com/focvs/)
 <br/>
 
-<!--
-## Minha Atividade
-
-<div align="center">
-  <a href="https://github.com/josevitorsoares">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josevitorsoares&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorsoares&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
--->
+---
 
 ## 🖥️ Algumas Tecnologias
 
@@ -48,7 +42,8 @@ Projetos em destaque: [Validesk](https://ax4b.com/validesk/), [FOCVS Sign](https
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-<br/>
+
+---
 
 ## 📲 Contatos
 
