@@ -34,6 +34,8 @@ Projetos em destaque: [Validesk](https://ax4b.com/validesk/), [FOCVS Sign](https
 
 ## 🖥️ Algumas Tecnologias
 
+![](https://skillicons.dev/icons?i=javascript,html,css,tailwind,typescript,nodejs,angular,react,mongodb,postgres,linux&theme=dark)
+<!--
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -42,7 +44,7 @@ Projetos em destaque: [Validesk](https://ax4b.com/validesk/), [FOCVS Sign](https
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-plain.svg" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code>
-
+-->
 ---
 
 ## 📲 Contatos
