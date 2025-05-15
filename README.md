@@ -34,7 +34,7 @@ Projetos em destaque: [Validesk](https://ax4b.com/validesk/), [FOCVS Sign](https
 
 ## 🖥️ Algumas Tecnologias
 
-![](https://skillicons.dev/icons?i=javascript,html,css,tailwind,typescript,nodejs,angular,react,mongodb,postgres,linux&theme=dark)
+![](https://skillicons.dev/icons?i=javascript,html,css,tailwind,typescript,nodejs,angular,react,nextjs,mongodb,postgres,linux&theme=dark)
 <!--
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
