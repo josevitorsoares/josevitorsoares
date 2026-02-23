@@ -12,7 +12,7 @@ Após o termino do curso, decidi que gostaria de continuar na área e foi onde i
 
 Atualmente, venho buscando aprofundar meus conhecimentos em node.JS e TypeScript, além de buscar a aplicação dos princípios SOLID, TDD e Clean Architecture. Esses são alguns repositórios onde aplico o que venho estudando: 
 
-- 📦 [rastro-correios-api](https://github.com/josevitorsoares/rastro-correios-api/)
+- 📦 [rastro-correios](https://github.com/josevitorsoares/rastro-correios/)
 - 💵 [twee-dollar](https://github.com/josevitorsoares/twee-dollar/)
 
 ---
