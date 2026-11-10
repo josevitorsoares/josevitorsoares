@@ -25,7 +25,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 **Desenvolvedor Full Stack Jr** \
 [**AX4B**](https://ax4b.com/) • Tempo Integral \
-jan. de 2024 - o momento \
+jan. de 2024 - set. de 2026 \
 Linguagens & Tecnologias: `JavaScript`, `Node.JS`, `TypeScript`, `Angular`, `MongoDB`, `Prisma`\
 Projetos em destaque: [Validesk](https://ax4b.com/validesk/), [FOCVS Sign](https://ax4b.com/focvs/)
 <br/>
